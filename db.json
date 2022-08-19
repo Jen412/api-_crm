@@ -1,28 +1,28 @@
 {
-  "clientes": [
-    {
-      "nombre": "Juan Fernando Brambila",
-      "empresa": "FScrol",
-      "email": "fer-410@live.com.mx",
-      "telefono": "3171124717",
-      "notas": "Quiere compar un producto ",
-      "id": 1
-    },
-    {
-      "nombre": "Oscar",
-      "empresa": "Baco",
-      "email": "brambilafrnando12@gmail.com",
-      "telefono": "3417891254",
-      "notas": "Ocupa una cotizacion",
-      "id": 3
-    },
-    {
-      "nombre": "Fernando",
-      "empresa": "Link",
-      "email": "FernandoB@Link.com",
-      "telefono": "3414567896",
-      "notas": "Requiere Cotizacion de 2 aplicaciones ",
-      "id": 4
-    }
-  ]
+    "clientes": [
+        {
+        "nombre": "Juan Fernando Brambila",
+        "empresa": "FScrol",
+        "email": "fer-410@live.com.mx",
+        "telefono": "3171124717",
+        "notas": "Quiere compar un producto ",
+        "id": 1
+        },
+        {
+        "nombre": "Oscar",
+        "empresa": "Baco",
+        "email": "brambilafrnando12@gmail.com",
+        "telefono": "3417891254",
+        "notas": "Ocupa una cotizacion",
+        "id": 3
+        },
+        {
+        "nombre": "Fernando",
+        "empresa": "Link",
+        "email": "FernandoB@Link.com",
+        "telefono": "3414567896",
+        "notas": "Requiere Cotizacion de 2 aplicaciones ",
+        "id": 4
+        }
+    ]
 }
